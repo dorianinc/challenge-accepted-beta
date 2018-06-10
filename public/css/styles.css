@@ -1,0 +1,19 @@
+.user-info{
+  height:100%;  
+  background-color: blue;
+}
+
+.user-image{
+  height: 200px;  
+  margin-top: 20px;
+  background-color: green;
+}
+
+#user-image{
+  height: 200px;
+}
+
+.user-bio{
+  height: 75px;
+  background-color: red;
+}
